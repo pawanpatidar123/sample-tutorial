@@ -1,9 +1,9 @@
 package com.tutorial.sample.service;
 
 /*
- * @Authore - vikas patidar
+ * @Authore - vikas patidar/Pawan Patidar/Amit Sharma
  * @since - 09 December 2016
- * 
+ * Description - Finacial Services to HR specific
  */
 
 
